@@ -1,5 +1,20 @@
 # 99 Bottles
 
+## Getting Started
+
+Checkout the code:
+
+    git clone git@github.com:sbrichards/99bottles.git
+    cd 99bottles
+    git checkout pre-exercise
+
+Make sure you can run the tests:
+
+    > ruby test/bottles_test.rb
+
+Edit lib/bottles.rb to make the test pass. (whitespace is significant in the verses)
+As soon as you pass one test, delete the “skip” keyword from the next test and run the tests again.
+
 ## The Code
 
 * [Chapter 1](https://github.com/sandimetz/99bottles/commits/chapter-1)
